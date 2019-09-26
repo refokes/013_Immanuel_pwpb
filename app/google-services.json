@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "828757080518",
+    "firebase_url": "https://immanuelpwpb.firebaseio.com",
+    "project_id": "immanuelpwpb",
+    "storage_bucket": "immanuelpwpb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828757080518:android:50fbea70ae5f4d208f5ac7",
+        "android_client_info": {
+          "package_name": "com.example.a013_immanuel_pwpb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828757080518-ifi23ftqmp0ulopilvd016brjuoo7ai9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.a013_immanuel_pwpb",
+            "certificate_hash": "05ca7e6dde6f80bb46718f4d2b30ffd74ef85e13"
+          }
+        },
+        {
+          "client_id": "828757080518-rpgfli35ug945c9u3f4230oshij1e66l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBzm_qwWlw4Xsy6ExmFLPnaBt0zJwYCXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828757080518-rpgfli35ug945c9u3f4230oshij1e66l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
